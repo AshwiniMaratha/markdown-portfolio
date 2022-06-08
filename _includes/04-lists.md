@@ -1,4 +1,4 @@
-file changed tab
-edit
-edit file
-commit changes
+- file changed tab
+- edit
+- edit file
+- commit changes
